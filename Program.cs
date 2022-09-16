@@ -23,7 +23,8 @@ int length = massiv.Length;//показвает количество симво�
             count = 0;
             number = string.Empty;//обнуляю строку
           }
-            //number = string.Empty;//обнуляю строку
+            number = string.Empty;//обнуляю строку
+            count = 0;
         }
     }
         
